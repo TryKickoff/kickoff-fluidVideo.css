@@ -1,17 +1,21 @@
-# Kickoff Fluid Video CSS module
->
+# kickoff-fluidVideo.css
+> Simple fluid-width videos using CSS only
+
+[![npm version](https://badge.fury.io/js/kickoff-fluidVideo.css.svg)](https://badge.fury.io/js/kickoff-fluidVideo.css)
+
+[![NPM](https://nodei.co/npm/kickoff-fluidVideo.css.png)](https://nodei.co/npm/kickoff-fluidVideo.css/)
 
 ## Install
 
 ```
-npm install kickoff-css-fluid-video --save
+npm install kickoff-fluidVideo.css --save
 ```
 
 ## Usage
 With scss and the [npm-sass](https://www.npmjs.com/package/npm-sass) or similar importer
 
-```
-@import "kickoff-css-fluid-video"
+```scss
+@import "kickoff-fluidVideo.css/index"
 ```
 
 ```html
