@@ -2,7 +2,7 @@
   "name": "kickoff-fluidVideo.css",
   "title": "Kickoff Fluid Video CSS module",
   "description": "Simple fluid-width videos using CSS only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://trykickoff.com",
   "repo": "https://github.com/trykickoff/kickoff-fluidVideo.css",
   "main": "index.css",
