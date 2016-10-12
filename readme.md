@@ -20,11 +20,11 @@ With scss and the [npm-sass](https://www.npmjs.com/package/npm-sass) or similar 
 
 ```html
 <div class="fluidVideo">
-	<iframe src="..."/>
+	<iframe class="fluidVideo-item" src="..."/>
 </div>
 
 <!-- add modifier for 4:3 aspect ratio -->
 <div class="fluidVideo fluidVideo--4-3">
-	<iframe src="..."/>
+	<iframe class="fluidVideo-item" src="..."/>
 </div>
 ```
