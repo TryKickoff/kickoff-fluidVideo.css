@@ -57,9 +57,7 @@ gulp.task('css', () => {
 
 		// Sass Compilation
 		.pipe(
-			sass({
-				importer: require('npm-sass').importer
-			}).on('error', sass.logError)
+			sass().on('error', sass.logError)
 		)
 
 		// PostCSS tasks after Sass compilation
