@@ -1,5 +1,5 @@
 {
-  "name": "kickoff-fluidVideo.css",
+  "name": "@kickoff/fluidvideo.css",
   "title": "Kickoff Fluid Video CSS module",
   "description": "Simple fluid-width videos using CSS only",
   "version": "1.1.0",
