@@ -5,16 +5,19 @@
    ██╔═██╗ ██║██║     ██╔═██╗ ██║   ██║██╔══╝  ██╔══╝
    ██║  ██╗██║╚██████╗██║  ██╗╚██████╔╝██║     ██║
    ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝
- * Kickoff Fluid Video CSS module v1.0.1
+ * Kickoff Fluid Video CSS module
  * https://github.com/trykickoff/kickoff-fluidVideo.css
  * http://trykickoff.com
  */
 .fluidVideo {
   position: relative;
   height: 0;
-  padding-bottom: 56.25%; }
-  .fluidVideo--4-3 {
-    padding-bottom: 75%; }
+  padding-bottom: 56.25%;
+}
+
+.fluidVideo--4-3 {
+  padding-bottom: 75%;
+}
 
 .fluidVideo-item,
 .fluidVideo iframe {
@@ -22,4 +25,5 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%; }
+  height: 100%;
+}
