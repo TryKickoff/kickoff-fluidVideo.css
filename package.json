@@ -2,7 +2,7 @@
   "name": "@kickoff/fluidvideo.css",
   "title": "Kickoff Fluid Video CSS module",
   "description": "Simple fluid-width videos using CSS only",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "homepage": "http://trykickoff.com",
   "repo": "https://github.com/trykickoff/kickoff-fluidVideo.css",
   "main": "index.css",
@@ -10,7 +10,7 @@
   "authors": [
     {
       "name": "Zander Martineau",
-      "url": "http://zander.wtf"
+      "url": "https://zander.wtf"
     }
   ],
   "contributors": [
